@@ -33,5 +33,8 @@
     <ClCompile Include="Flie\变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Flie\for语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
