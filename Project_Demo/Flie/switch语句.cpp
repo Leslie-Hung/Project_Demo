@@ -4,19 +4,17 @@ int main() {
 	int x;
 	printf("猜数字游戏！！！");
 	printf("请输入数字。。。");
-	scanf_s("%d", &x);
+	scanf_s("%lu", &x);
 	switch (x)
 	{
 	case 1:
-		printf("perfect！！！");
+		printf("1");
 		break;
 	case 2:
-		printf("大了大了");
+		printf("2");
 		break;
 	case 3:
-		printf("小了小了");
-		break;
-	default:
+		printf("3");
 		break;
 	}
 }
