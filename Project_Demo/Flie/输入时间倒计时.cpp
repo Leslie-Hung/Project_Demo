@@ -9,6 +9,7 @@ int main() {
 	for (size_t i = x; i > 0; i--)
 	{	
 		Sleep(1000);
+		system("CLS");
 		printf("%d\n", i);
 	}
 	Sleep(1000);
