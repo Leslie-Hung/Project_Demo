@@ -42,5 +42,20 @@
     <ClCompile Include="Flie\switch语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Flie\over溢出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flie\数据类型1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flie\数据类型2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flie\舍入误差.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flie\计算机考试题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
